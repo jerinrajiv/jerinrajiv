@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerin Kuruvilla
 =======================================================================================================================================
 
-Senior Computer Science student at Penn State University
+Software Engineer @MDI and Founder of The LostNFound Podcast
 --------------------------------------------------------
 
-As a Computer Science major with a Math minor at The Pennsylvania State University, I am on the brink of launching my career as a Software Developer. My journey has been marked by a deep engagement with programming, fostering a keen eye for efficient, user-friendly software solutions. With a toolbox filled with robust coding skills and an intrinsic knack for problem-solving, I am ready to dive into the dynamic world of software development. My goal? To contribute high-quality code and innovative solutions as an integral part of a collaborative development team.
+I am a passionate software engineer with a strong foundation in computer science, complemented by hands-on experience in software development, project management, and automation engineering. With a BS in Computer Science and a minor in Mathematics from Penn State University, I have developed and deployed SCADA software for multiple clients, led teams to successful project completions, and managed complex workflows in diverse environments. 
+My goal? To contribute high-quality code and innovative solutions.
 
 * 🌍  I'm based in Philadelphia
 * ✉️  You can contact me at [jerinkuruvilla2000@gmail.com](mailto:jerinkuruvilla2000@gmail.com)
-* 🧠  I'm learning Meta Backend Software developer Certification
+* 🧠  I'm an experienced Ignition SCADA Software Developer at MDI
 * 🤝  I'm open to collaborating on Projects involving AI and Machine Learning
 
 ### Skills
